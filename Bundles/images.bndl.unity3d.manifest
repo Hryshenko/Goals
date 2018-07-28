@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2450048255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d04fad6f85f8203716fbad8c596d67f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Images.bndl/wolf-tattoos-12031748.jpg
+- Assets/Bundles/Images.bndl/021fcee8875d3cd83fb019e1eb767af6.jpg
+Dependencies: []
