@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3582631408
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sound.bndl.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: scene.bndl.unity3d
+      Dependencies: {}
