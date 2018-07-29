@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1281376346
+CRC: 2684282926
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: prefab.bndl.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: scene.bndl.unity3d
       Dependencies: {}
